@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/raw/
+
+# Outputs
+outputs/
+models/
+
+# VS Code
+.vscode/
